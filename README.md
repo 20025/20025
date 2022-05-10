@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @20025
-- 👀 I’m interested in developement
-- 🌱 I’m currently learning flutter
+- 👋 Hi, I’m Becka sidilmoukhtar
+- 👀 I’m interested in developement,data science,artificial intelligence
+- 🌱 I’m currently learning student in polytechnique of Nouakchot
 - 💞️ I’m looking to collaborate on develeopement
 - 📫 How to reach me project
 
